@@ -1,0 +1,103 @@
+
+[
+  {
+    "id": "1",
+    "name": "Steelers",
+    "city": "Pittsburgh",
+    "conference": "AFC",
+    "players": [
+      { "name": "T.J. Watt", "position": "Linebacker", "number": 90 },
+      { "name": "Cam Heyward", "position": "Defensive Tackle", "number": 97 }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Eagles",
+    "city": "Philadelphia",
+    "conference": "NFC",
+    "players": [
+      { "name": "Jalen Hurts", "position": "Quarterback", "number": 1 },
+      { "name": "A.J. Brown", "position": "Wide Receiver", "number": 11 }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Chiefs",
+    "city": "Kansas City",
+    "conference": "AFC",
+    "players": [
+      { "name": "Patrick Mahomes", "position": "Quarterback", "number": 15 },
+      { "name": "Travis Kelce", "position": "Tight End", "number": 87 }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Cowboys",
+    "city": "Dallas",
+    "conference": "NFC",
+    "players": [
+      { "name": "Dak Prescott", "position": "Quarterback", "number": 4 },
+      { "name": "CeeDee Lamb", "position": "Wide Receiver", "number": 88 }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "49ers",
+    "city": "San Francisco",
+    "conference": "NFC",
+    "players": [
+      { "name": "Brock Purdy", "position": "Quarterback", "number": 13 },
+      { "name": "George Kittle", "position": "Tight End", "number": 85 }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Bills",
+    "city": "Buffalo",
+    "conference": "AFC",
+    "players": [
+      { "name": "Josh Allen", "position": "Quarterback", "number": 17 },
+      { "name": "James Cook", "position": "Running Back", "number": 4 }
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Ravens",
+    "city": "Baltimore",
+    "conference": "AFC",
+    "players": [
+      { "name": "Lamar Jackson", "position": "Quarterback", "number": 8 },
+      { "name": "Derrick Henry", "position": "Running Back", "number": 22 }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Lions",
+    "city": "Detroit",
+    "conference": "NFC",
+    "players": [
+      { "name": "Jared Goff", "position": "Quarterback", "number": 16 },
+      { "name": "Amon-Ra St. Brown", "position": "Wide Receiver", "number": 14 }
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Packers",
+    "city": "Green Bay",
+    "conference": "NFC",
+    "players": [
+      { "name": "Jordan Love", "position": "Quarterback", "number": 10 },
+      { "name": "Josh Jacobs", "position": "Running Back", "number": 8 }
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Bengals",
+    "city": "Cincinnati",
+    "conference": "AFC",
+    "players": [
+      { "name": "Joe Burrow", "position": "Quarterback", "number": 9 },
+      { "name": "Ja'Marr Chase", "position": "Wide Receiver", "number": 1 }
+    ]
+  }
+]
